@@ -1,7 +1,7 @@
 # Sample of HTML
 
 A **simple static webpage** built using **HTML5** to demonstrate basic web structure and tag usage.  
-Created during my internship at **Nibodh** to showcase understanding of core HTML concepts.
+Created during my **2022 internship at Nibodh** to showcase understanding of core HTML concepts.
 
 ---
 
