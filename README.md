@@ -33,4 +33,4 @@ This project highlights the use of semantic HTML elements to create a clear and 
 git clone https://github.com/vednav9/nibodh-internship-frst-assignment-sample-of-html.git
 ```
 ### 2. Open the Project
-Simply open the index.html file in any web browser.
+Simply open the ```Sample of HTML 1.html``` file in any web browser.
